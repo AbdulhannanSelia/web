@@ -33,16 +33,16 @@ no.addEventListener("click", () => {
     gif.src = "../resources/3shocked-1.gif";// gif credit: https://tenor.com/view/tkthao219-peach-goma-gif-25008901
     text.innerHTML = "Your hand must have slipped right?🥹";
     yes.style.height = "70%";
-    yes.style.width = "70%";
-    no.style.width = "20%";
+    yes.style.width = "75%";
+    no.style.width = "15%";
     count++;
   } else if (count == 4) {
     gif.src = "../resources/4.crying.gif";// gif credit: https://tenor.com/view/cat-kitty-gif-25340141
     text.innerHTML = "I'm gonna cry😭";
     yes.style.height = "80%";
-    yes.style.width = "80%";
+    yes.style.width = "88%";
     no.style.fontSize = "4vh";
-    no.style.width = "10%";
+    no.style.width = "2%";
     count++;
   } else if (count == 5) {
     gif.src = "../resources/5.crying.gif";// gif credit: https://tenor.com/view/cat-gif-10173437195524493032
